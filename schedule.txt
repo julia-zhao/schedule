@@ -1,0 +1,70 @@
+PRINCIPAL
+Haliburton
+--------
+COURSE
+ABC123
+
+TEACHER
+Marving
+
+STUDENTS
+Harvey Dent
+---------
+COURSE
+ART1O1
+
+TEACHER
+Denture
+
+STUDENTS
+Mister Bigg
+---------
+COURSE
+BAT2O1
+
+TEACHER
+Davidson
+
+STUDENTS
+Harvey Dent
+Bruce Ward
+---------
+COURSE
+MAT1P1
+
+TEACHER
+Davidson
+
+STUDENTS
+Harvey Dent
+Bruce Ward
+Mister Bigg
+---------
+COURSE
+SNC1D1
+
+TEACHER
+Davidson
+
+STUDENTS
+Harvey Dent
+---------
+COURSE
+PHR2O1
+
+TEACHER
+Davidson
+
+STUDENTS
+Bruce Ward
+---------
+COURSE
+ZAT1D1
+
+TEACHER
+Marving
+
+STUDENTS
+Bruce Ward
+Mister Bigg
+---------
